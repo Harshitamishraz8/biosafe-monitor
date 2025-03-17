@@ -86,25 +86,3 @@ python src/using_lstm_to_predict_conc.py
 
 ---
 
-## 🛠 **Troubleshooting**  
-- **Issue:** `ModuleNotFoundError` → Install dependencies: `pip install -r requirements.txt`  
-- **Issue:** Graph updates too fast → Adjust `interval=500` in the animation function  
-- **Issue:** No sound alert? Ensure `winsound` (Windows) or `tkinter` (Linux/macOS) is working  
-
----
-
-## 🤝 **Contributing**  
-Feel free to **fork the repo, improve the project, and submit a PR!** 🚀  
-
-1. Fork the repository  
-2. Create a feature branch (`git checkout -b feature-name`)  
-3. Commit changes (`git commit -m "Added feature XYZ"`)  
-4. Push to your branch (`git push origin feature-name`)  
-5. Open a pull request  
-
----
-
-## 📜 **License**  
-This project is open-source under the **MIT License**.  
-
----
